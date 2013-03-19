@@ -10,6 +10,7 @@ tests:
    - { path:"images/008.jpg", red: 5, blue:5 }
    - { path:"images/009.jpg", red: 11, blue:1 }
    - { path:"images/010.jpg", red: 14, blue:14 }
+   - { path:"images/012.jpg", red: 0, blue: 0 }
    #- { path:"images/011.jpg", red: -1, blue:0 }
    #- { path:"images/130128_TCe-5_A.jpg", red: -1, blue:0 }
    #- { path:"images/130128_ECe-7_B.jpg", red: 0, blue:8 }
